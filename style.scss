@@ -3,3 +3,14 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.card {
+    width: 40px;
+    height: 100px;
+    background-color: white;
+    p{
+        font-size: 15px;
+        color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+}
